@@ -1,0 +1,21 @@
+input[type=text]{
+	width:100px;
+	height:100px;
+	color:red;
+	border:1px solid red;
+	border-radius:5px;
+	font-weight:bold;
+}
+textarea{
+	color:blue;
+}
+
+label{
+	color:green;
+}
+input[type=submit]{
+	width:100px;
+	height:100px;
+	color:blue;
+	border-radius:1px solid red;
+}
